@@ -9,4 +9,6 @@
 ![](https://ling-root-bucket.oss-cn-hangzhou.aliyuncs.com/picgo/20210607195641.png)
 ![](https://ling-root-bucket.oss-cn-hangzhou.aliyuncs.com/picgo/20210607200736.png)
    <p>答：</p> A B 
-   
+3. 挑战2.3 请列举一个接口，它包含的方法并不要求实现该接口的类必须返回值，或者代表调用者执行若干操作
+    <p>答：</p>
+   * void setSimTime(double t);
