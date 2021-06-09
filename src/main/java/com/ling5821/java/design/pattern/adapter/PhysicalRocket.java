@@ -6,6 +6,7 @@ import java.awt.event.*;
 /**
  * @author lsj
  * @date 2021/6/9 14:22
+ * Adaptee 适配者
  */
 public class PhysicalRocket {
     private double burnArea;

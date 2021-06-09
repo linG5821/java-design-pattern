@@ -3,6 +3,8 @@ package com.ling5821.java.design.pattern.adapter;
 /**
  * @author lsj
  * @date 2021/6/9 14:29
+ * Adapter 适配器
+ * 通过继承适配者(PhysicalRocket)，并实现目标类接口的方式进行适配(类适配模式)
  */
 
 public class OozinozRocket extends PhysicalRocket implements RocketSim {
